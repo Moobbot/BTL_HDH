@@ -1,0 +1,11 @@
+D:\Hoctap\3.2\Hedieuhanh\BTL_HeDieuHanh\Form1\Form1\bin\Debug\Form1.exe.config
+D:\Hoctap\3.2\Hedieuhanh\BTL_HeDieuHanh\Form1\Form1\bin\Debug\Form1.exe
+D:\Hoctap\3.2\Hedieuhanh\BTL_HeDieuHanh\Form1\Form1\bin\Debug\Form1.pdb
+D:\Hoctap\3.2\Hedieuhanh\BTL_HeDieuHanh\Form1\Form1\obj\Debug\TaskManager.csproj.AssemblyReference.cache
+D:\Hoctap\3.2\Hedieuhanh\BTL_HeDieuHanh\Form1\Form1\obj\Debug\TaskManager.csproj.SuggestedBindingRedirects.cache
+D:\Hoctap\3.2\Hedieuhanh\BTL_HeDieuHanh\Form1\Form1\obj\Debug\Form1.Form1.resources
+D:\Hoctap\3.2\Hedieuhanh\BTL_HeDieuHanh\Form1\Form1\obj\Debug\Form1.Properties.Resources.resources
+D:\Hoctap\3.2\Hedieuhanh\BTL_HeDieuHanh\Form1\Form1\obj\Debug\TaskManager.csproj.GenerateResource.cache
+D:\Hoctap\3.2\Hedieuhanh\BTL_HeDieuHanh\Form1\Form1\obj\Debug\TaskManager.csproj.CoreCompileInputs.cache
+D:\Hoctap\3.2\Hedieuhanh\BTL_HeDieuHanh\Form1\Form1\obj\Debug\Form1.exe
+D:\Hoctap\3.2\Hedieuhanh\BTL_HeDieuHanh\Form1\Form1\obj\Debug\Form1.pdb
