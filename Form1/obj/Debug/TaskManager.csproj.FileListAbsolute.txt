@@ -9,3 +9,13 @@ D:\Hoctap\3.2\Hedieuhanh\BTL_HeDieuHanh\Form1\Form1\obj\Debug\TaskManager.csproj
 D:\Hoctap\3.2\Hedieuhanh\BTL_HeDieuHanh\Form1\Form1\obj\Debug\TaskManager.csproj.CoreCompileInputs.cache
 D:\Hoctap\3.2\Hedieuhanh\BTL_HeDieuHanh\Form1\Form1\obj\Debug\Form1.exe
 D:\Hoctap\3.2\Hedieuhanh\BTL_HeDieuHanh\Form1\Form1\obj\Debug\Form1.pdb
+E:\1_He dieu hanh\hdh\BTL_HDH\Form1\bin\Debug\Form1.exe.config
+E:\1_He dieu hanh\hdh\BTL_HDH\Form1\bin\Debug\Form1.exe
+E:\1_He dieu hanh\hdh\BTL_HDH\Form1\bin\Debug\Form1.pdb
+E:\1_He dieu hanh\hdh\BTL_HDH\Form1\obj\Debug\TaskManager.csproj.AssemblyReference.cache
+E:\1_He dieu hanh\hdh\BTL_HDH\Form1\obj\Debug\Form1.Form1.resources
+E:\1_He dieu hanh\hdh\BTL_HDH\Form1\obj\Debug\Form1.Properties.Resources.resources
+E:\1_He dieu hanh\hdh\BTL_HDH\Form1\obj\Debug\TaskManager.csproj.GenerateResource.cache
+E:\1_He dieu hanh\hdh\BTL_HDH\Form1\obj\Debug\TaskManager.csproj.CoreCompileInputs.cache
+E:\1_He dieu hanh\hdh\BTL_HDH\Form1\obj\Debug\Form1.exe
+E:\1_He dieu hanh\hdh\BTL_HDH\Form1\obj\Debug\Form1.pdb

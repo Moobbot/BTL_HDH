@@ -52,8 +52,19 @@ namespace Form1
                 }
 
                 //
-                newItem.SubItems.Add(new ListViewItem.ListViewSubItem() { Text = "CPU" });
-                
+                try
+                {
+                    PerformanceCounter counter = new PerformanceCounter("Process", "Private Bytes", item.ProcessName, true);
+                    PerformanceCounter setCounter = new PerformanceCounter("Process", "Working Set", item.ProcessName, true);
+                    PerformanceCounter poolNPCounter = new PerformanceCounter("Process", "Pool Nonpaged Bytes", item.ProcessName, true);
+                    newItem.SubItems.Add(new ListViewItem.ListViewSubItem() { Text = ((setCounter.NextValue() / 1024f)).ToString() + " KB" });
+                }
+                catch (Exception ex)
+                {
+                    newItem.SubItems.Add(new ListViewItem.ListViewSubItem() { Text = "CPU" });
+                }
+
+
                 //Memory: Bộ nhớ ảo sử dụng
                 //Nhận lượng bộ nhớ riêng, tính bằng byte, được phân bổ cho quá trình liên quan.
                 double memory = ((int)item.PrivateMemorySize64) / (Math.Pow(1024, 2));
