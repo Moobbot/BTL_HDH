@@ -51,7 +51,10 @@ namespace Form1
 
                 }
 
-                //
+                //CPU: mức độ sử dụng bộ vi sử lý của tiến trình
+                //PerformanceCounter: Đại diện cho thành phần bộ đếm hiệu suất Windows NT. giá trị trả về: byte
+                //setCounter.NextValue() Trả về mức độ sử dụng CPU hiện tại của tiến trình, đơn vị byte
+                //chuyển đổi đơn vị:  byte / 1024f = KB
                 try
                 {
                     PerformanceCounter counter = new PerformanceCounter("Process", "Private Bytes", item.ProcessName, true);
